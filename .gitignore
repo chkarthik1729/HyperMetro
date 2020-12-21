@@ -1,5 +1,6 @@
 .gradle
-/build/
+**/build/
+**/out/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -12,3 +13,19 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+.idea/
+.gradle/
+**.DS_Store
+
+course-info.yaml
+course-remote-info.yaml
+Problems/
+
+HyperMetro/A real metro
+HyperMetro/Branching
+HyperMetro/One-line metro
+HyperMetro/Several directions
+HyperMetro/The fastest route
+HyperMetro/The shortest route
+HyperMetro/lesson-info.yaml
